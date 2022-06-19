@@ -1,0 +1,4 @@
+io\surabhi\ratingsdataservice\models\Rating.class
+io\surabhi\ratingsdataservice\RatingsDataServiceApplication.class
+io\surabhi\ratingsdataservice\models\UserRating.class
+io\surabhi\ratingsdataservice\resources\RatingsResource.class
