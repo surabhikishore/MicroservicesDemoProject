@@ -1,0 +1,6 @@
+io\surabhi\moviecatalogservice\resources\MovieCatalogResource.class
+io\surabhi\moviecatalogservice\models\CatalogItem.class
+io\surabhi\moviecatalogservice\models\Movie.class
+io\surabhi\moviecatalogservice\MovieCatalogServiceApplication.class
+io\surabhi\moviecatalogservice\models\Rating.class
+io\surabhi\moviecatalogservice\models\UserRating.class
